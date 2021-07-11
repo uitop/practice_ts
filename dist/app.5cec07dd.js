@@ -563,8 +563,8 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.CONTENT_URL = exports.NEWS_URL = void 0;
-exports.NEWS_URL = 'http://api.hnpwa.com/v0/news/@page.json';
-exports.CONTENT_URL = 'http://api.hnpwa.com/v0/item/@id.json';
+exports.NEWS_URL = '//api.hnpwa.com/v0/news/@page.json';
+exports.CONTENT_URL = '//api.hnpwa.com/v0/item/@id.json';
 },{}],"src/core/view.ts":[function(require,module,exports) {
 "use strict";
 
